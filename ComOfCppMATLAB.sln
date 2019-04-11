@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ComOfCppMATLAB", "ComOfCppMATLAB\ComOfCppMATLAB.vcxproj", "{ED3DDD5B-5D7B-45B0-9C03-093B3AD966F5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BackgourndMATLABEngine", "BackgourndMATLABEngine\BackgourndMATLABEngine.vcxproj", "{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleController", "ConsoleController\ConsoleController.vcxproj", "{D942DE2B-2998-4C5A-A680-3992129DBF30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{ED3DDD5B-5D7B-45B0-9C03-093B3AD966F5}.Release|x64.Build.0 = Release|x64
 		{ED3DDD5B-5D7B-45B0-9C03-093B3AD966F5}.Release|x86.ActiveCfg = Release|Win32
 		{ED3DDD5B-5D7B-45B0-9C03-093B3AD966F5}.Release|x86.Build.0 = Release|Win32
+		{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}.Debug|x64.ActiveCfg = Debug|x64
+		{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}.Debug|x64.Build.0 = Debug|x64
+		{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}.Debug|x86.Build.0 = Debug|Win32
+		{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}.Release|x64.ActiveCfg = Release|x64
+		{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}.Release|x64.Build.0 = Release|x64
+		{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}.Release|x86.ActiveCfg = Release|Win32
+		{6CD1E103-EA70-4264-A7F6-B87CC79DA28F}.Release|x86.Build.0 = Release|Win32
+		{D942DE2B-2998-4C5A-A680-3992129DBF30}.Debug|x64.ActiveCfg = Debug|x64
+		{D942DE2B-2998-4C5A-A680-3992129DBF30}.Debug|x64.Build.0 = Debug|x64
+		{D942DE2B-2998-4C5A-A680-3992129DBF30}.Debug|x86.ActiveCfg = Debug|Win32
+		{D942DE2B-2998-4C5A-A680-3992129DBF30}.Debug|x86.Build.0 = Debug|Win32
+		{D942DE2B-2998-4C5A-A680-3992129DBF30}.Release|x64.ActiveCfg = Release|x64
+		{D942DE2B-2998-4C5A-A680-3992129DBF30}.Release|x64.Build.0 = Release|x64
+		{D942DE2B-2998-4C5A-A680-3992129DBF30}.Release|x86.ActiveCfg = Release|Win32
+		{D942DE2B-2998-4C5A-A680-3992129DBF30}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,13 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="matlabcom.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="SharedMATLABEngine.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ConsoleController.h">
+    <ClInclude Include="BackgroundMATLABEngine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

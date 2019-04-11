@@ -15,17 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="matlabcom.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="SharedMATLABEngine.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="ConsoleController.h">
       <Filter>Header Files</Filter>
     </ClInclude>
